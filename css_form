@@ -1,0 +1,22 @@
+body{
+  font-size: 20px;
+background-color: rgb(10,150,150);
+margin: 5px;
+
+}
+h1,p{
+  text-align: center;
+  color: red;
+}
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+textarea{
+  text-align: center;
+  color: rgb(100,150,127);
+  border-style: inset;
+  border-color: rgb(200,100,100);
+  border-width: 3px;
+}
+
